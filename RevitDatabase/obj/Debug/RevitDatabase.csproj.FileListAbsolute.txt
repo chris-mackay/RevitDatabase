@@ -1,0 +1,8 @@
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\RevitDatabase\RevitDatabase\bin\Debug\RevitDatabase.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\RevitDatabase\RevitDatabase\bin\Debug\RevitDatabase.pdb
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\RevitDatabase\RevitDatabase\obj\Debug\RevitDatabase.csprojResolveAssemblyReference.cache
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\RevitDatabase\RevitDatabase\obj\Debug\RevitDatabase.MainForm.resources
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\RevitDatabase\RevitDatabase\obj\Debug\RevitDatabase.csproj.GenerateResource.Cache
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\RevitDatabase\RevitDatabase\obj\Debug\RevitDatabase.csproj.CoreCompileInputs.cache
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\RevitDatabase\RevitDatabase\obj\Debug\RevitDatabase.dll
+C:\Users\CMackay\Documents\Visual Studio 2017\Projects\RevitDatabase\RevitDatabase\obj\Debug\RevitDatabase.pdb
